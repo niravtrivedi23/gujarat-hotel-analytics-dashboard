@@ -22,7 +22,7 @@ This dashboard analyzes **1,930 hotels across Gujarat**, uncovering insights rel
 |----------|---------|
 | 🏨 Total Hotels | 1,930 |
 | 💰 Average Hotel Price | ₹3.44K |
-| ⭐ Average Rating | 3.54 |
+| ⭐ Average Rating | 3.54 Out of 5 |
 | 📝 Total Reviews | 2,365 |
 | 📍 State Covered | Gujarat |
 
