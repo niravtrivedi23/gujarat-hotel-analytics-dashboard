@@ -130,7 +130,7 @@ This dashboard analyzes **1,930 hotels across Gujarat**, uncovering insights rel
 
 # 💡 Final Thought
 
-*"In the hospitality industry, success is not measured only by occupancy or pricing—it is measured by the experience guests take home. Data helps uncover those experiences and turns them into valuable insights for better business decisions."*
+* "In the hospitality industry, opening hotels is not enough—understanding guest satisfaction, reviews, pricing, and facilities is what drives higher ratings, repeat guests, and long-term business growth." *
 
 ---
 
