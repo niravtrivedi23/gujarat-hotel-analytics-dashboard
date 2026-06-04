@@ -130,7 +130,7 @@ This dashboard analyzes **1,930 hotels across Gujarat**, uncovering insights rel
 
 # 💡 Final Thought
 
-* "In the hospitality industry, opening hotels is not enough—understanding guest satisfaction, reviews, pricing, and facilities is what drives higher ratings, repeat guests, and long-term business growth." *
+* "In the hospitality industry, opening hotels is not enough—understanding guest satisfaction, reviews, pricing, and facilities is what drives higher ratings, repeat guests, and long-term business growth."*
 
 ---
 
