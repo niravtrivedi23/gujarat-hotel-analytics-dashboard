@@ -94,7 +94,7 @@ This dashboard analyzes **1,930 hotels across Gujarat**, uncovering insights rel
 
 # 🖼️ Dashboard Preview
 
-![Gujarat Hotel Analytics Dashboard](https://raw.githubusercontent.com/niravtrivedi23/gujarat-hotel-analytics-dashboard/main/Gujarat%20Hotel%20Analytics%20Dashboard.png)
+![Gujarat Hotel Analytics Dashboard](https://github.com/niravtrivedi23/gujarat-hotel-analytics-dashboard/blob/main/Hotel%20Analytics.png)
 
 ---
 
